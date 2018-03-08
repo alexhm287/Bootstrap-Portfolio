@@ -1,0 +1,82 @@
+header {
+	text-align:center;
+}
+
+.connectcontainer {
+	position:absolute;
+	right:-600px;
+	top:-300px;
+}
+
+.connectcontainer {
+	float:right;
+}
+
+.connectwithme {
+	position:absolute;
+	right:-600px;
+	top:-10px;
+}
+
+#right-nav {
+  background: white;
+  position: absolute;
+  padding:30px;
+  top: 0px;
+  right: -600px;
+  height: 50%;
+  width: 250px;
+}
+
+.footer {
+		
+   position: fixed;
+   padding:20px;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: darkgray;
+   color: black;
+   text-align: center;
+}
+
+.about {
+	text-align:center;
+}
+
+.myname{
+	text-align:center;
+	color: #777;
+	color: #4aaaa5;
+}
+
+.panel-body {
+	
+	text-align:center;
+	font-size:medium;
+	background-color:lightgray;
+}
+
+.panel-heading {
+	background-color: violet;
+	text-align:center;
+	font-size:xx-large;
+	    
+}
+
+.aboutme {
+	text-align:left;
+	font-size:30px;
+}
+
+.connect {
+	text-align:center;
+}
+
+.work {
+	text-align:center;
+	 background: blue;
+	     position: relative;
+    top: -60px;
+    color:black;
+}
